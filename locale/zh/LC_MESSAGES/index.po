@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-25 14:47+0800\n"
+"PO-Revision-Date: 2011-07-25 14:48+0800\n"
+"Last-Translator: Guo YuanBo <zaknafein.dourden.2012@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: D:\\NetBeansProjects\\Pr\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/lib/body.content.php:11
+msgid "Survey on the Dream of the Red Chamber"
+msgstr "《红楼梦》在线问卷调查"
+
+#: includes/lib/body.content.php:26
+msgid "Welcome to take part in our online survey and quiz about The Dream of the Red Chamber. If you answer all the quiz questions correctly, you will be entered in a drawing to win a prize of 1,000 yuan renminbi on June 30, 2012."
+msgstr "欢迎进入《红楼梦》调查系统，请先进入问卷调查。如果你的有奖问答全部正确，您将有机会赢得1000元人民币的奖金，截止日期为2012年6月30日。"
+
+#: includes/lib/body.content.php:38
+msgid ""
+"Thank you for your \n"
+"answers. The survey now is finished. Would you also like to take part in \n"
+"the quiz, where you can win 1,000 Yuan Renminbi (approx. 130 USD)? The \n"
+"winner will be notified on June 30, 2012. Decisions are final. We will \n"
+"try to notify everybody with the individual results of your quiz and \n"
+"maybe with a winner's notification."
+msgstr "感谢您的答案。现在问卷已经完成。如果您参加下面的有奖测试，您将有机会赢得1000元人民币（约130美元）。 “2012年6月30日，获胜者将被通知。我们将尝试将测验结果分别通知每一个人，您可能就是那个幸运者。"
+
+#: includes/lib/body.content.php:44
+msgid ""
+"Cao Xueqin describes the history of the Jia family, which \n"
+"corresponds very closely to the history of his own family, the Cao. Who \n"
+"does Cao Xueqin correspond to in the novel?"
+msgstr "曹雪芹大部分写贾家的故事就是曹家的故事。曹雪芹在小说里最像谁？"
+
+#: includes/lib/body.content.php:47
+msgid "Jia Zheng/Governance"
+msgstr "贾政"
+
+#: includes/lib/body.content.php:48
+msgid "Jia Baoyu/Precious Jade"
+msgstr "贾宝玉"
+
+#: includes/lib/body.content.php:49
+msgid "Jia Lan"
+msgstr "贾兰"
+
+#: includes/lib/body.content.php:50
+msgid "What was the title of most manuscript versions, before the printed edition in 1791?"
+msgstr "1791年第一次出来的印版本之前的抄本大部分叫什么？"
+
+#: includes/lib/body.content.php:51
+msgid "The Story of the Stone"
+msgstr "石头记"
+
+#: includes/lib/body.content.php:52
+#: includes/lib/body.content.php:56
+#: includes/lib/body.content.php:62
+msgid "The Dream of the Red Chamber"
+msgstr "红楼梦"
+
+#: includes/lib/body.content.php:53
+msgid "Precious Mirror of Love"
+msgstr "风月宝鉴"
+
+#: includes/lib/body.content.php:54
+msgid "The 12 Beautys of Jinling"
+msgstr "金陵十二钗"
+
+#: includes/lib/body.content.php:55
+msgid "How was the novel title translated into English in 1815?"
+msgstr "1815年英译书名叫什么？"
+
+#: includes/lib/body.content.php:57
+#: includes/lib/body.content.php:63
+msgid "The Red Chamber Dreams"
+msgstr "The Red Chamber Dreams"
+
+#: includes/lib/body.content.php:58
+msgid "A Dream of Red Mansions"
+msgstr "A Dream of Red Mansions"
+
+#: includes/lib/body.content.php:59
+msgid "The Dreams of the Red Chamber"
+msgstr "The Dreams of the Red Chamber"
+
+#: includes/lib/body.content.php:60
+msgid "How was the novel referred to when the first translation of excerpts into English (and French) were published in 1819?"
+msgstr "1819年英节译本书名叫什么？"
+
+#: includes/lib/body.content.php:61
+msgid "Story of the Stone"
+msgstr "Story of the Stone"
+
+#: includes/lib/body.content.php:64
+msgid "In which of the two TV film series, 1987 or 2010, was the actress playing Lin Daiyu/Black Jade skinnier?"
+msgstr "1987年版电视剧《红楼梦》和最近新拍的电视剧里面表演林黛玉的演员哪一位更瘦？"
+
+#: includes/lib/body.content.php:65
+msgid "In the adaption of 1987"
+msgstr "1987年版"
+
+#: includes/lib/body.content.php:66
+msgid "In the remake of 2010"
+msgstr "新拍版"
+
+#: includes/lib/body.content.php:67
+msgid "Of the two novels The Dream of the Red Chamber and Jin Ping Mei/The Plum in the Golden Vase/Golden Lotus, which one sold better abroad?"
+msgstr "在国外，红楼梦或者金瓶梅两种长篇小说，哪一篇的销售更多？"
+
+#: includes/lib/body.content.php:68
+msgid "\"Dream of the Red Chamber\""
+msgstr "《红楼梦》"
+
+#: includes/lib/body.content.php:69
+msgid "\"Jin Ping Mei/The Plum in the Golden Vase/Golden Lotus\""
+msgstr "《金瓶梅》"
+
+#: includes/lib/body.content.php:74
+msgid ""
+"Thank you for your participation. If you want to know the results and to \n"
+"have the chance to win 1000 Yuan, please be so kind to leave us your \n"
+"email address in order to be informed about the result, if he has won \n"
+"the prize (due June 30, 2012), as well as other progress in the HLM \n"
+"survey project."
+msgstr "感谢您的参与。如果您想知道结果，并有机会赢得1000元，请您留给我们您的电子邮件地址，以便被告知有关结果（2012年6月30日到期）"
+
+#: includes/lib/body.content.php:80
+msgid "Email address(for notification of the winner):"
+msgstr "邮箱地址（通知结果）："
+
+#: includes/lib/body.content.php:82
+msgid "sex:"
+msgstr "性别："
+
+#: includes/lib/body.content.php:85
+msgid "birth date:"
+msgstr "出生日期："
+
+#: includes/lib/body.content.php:87
+msgid "educational background (highest degree earned):"
+msgstr "受教育程度（填写最高学历）："
+
+#: includes/lib/body.content.php:89
+msgid "Occupation:"
+msgstr "职业："
+
+#: includes/lib/body.content.php:91
+msgid "nationality:"
+msgstr "国籍："
+
+#: includes/lib/body.content.php:93
+msgid "Native language:"
+msgstr "母语："
+
+#: includes/lib/body.content.php:107
+msgid ""
+"&nbsp&nbsp&nbsp&nbspThe Dream of the Red Chamber is one of the four great classical Chinese novels. It has been published as a book in 1784 under the title \"Dream of the Red Chamber\". It also also known as \"Story of the Stone\", especially in early manuscript versions, and \"The Passionate Monk's Tale\", \"The Precious Mirror of Love\",\"The Twelve Beauties of Jinling\" [Nanking]. The author is Cao Xueqin, 32 years after his death, Gao E claims to have reconstructed the interim missing last 40 chapters and until today is read in this form of 120 chapters, including an ending. \n"
+" &nbsp&nbsp&nbsp&nbspThe book is a sophisticated artistic work of a great author with an understanding for the different levels of society and the ambiguity of men's character. In the combined forms of family saga, love story, crime story, daoist tale etc. he tells about ordinary life and gives the reader's an early idea of democracy, social reality, life at court, bad officials, feudal aristocracy and their families, decadent life, the imperial examinations, marriages, slaves, hierarchy and ideas of determination. He disputes with Confucianism and Neo-Confucianism as well as social mores and therefore has drawn a rich and intelligent picture of his time."
+msgstr "《红楼梦》，中国古代四大名著之一，章回体长篇小说，成书于1784年（清乾隆帝四 十九年），梦觉主人序本正式题为《红楼梦》。它的原名《石头记》《情僧录》《风月宝 鉴》《金陵十二钗》等。作者曹雪芹，续作是由高鹗完成。本书是一部具有高度思想 性和高度艺术性的伟大作品，作者具有初步的仁思想，他对现实社会、宫廷、官场 的黑暗，封建贵族阶级及其家庭的腐朽，封建的科举、婚姻、奴婢、等级制度及社 会统治思想即孔孟之道和程朱理学、社会道德观念等都进行了深刻的批判并且提出 了朦胧的带有初步仁性质的理想和主张。"
+
+#: includes/lib/header.common.php:51
+msgid "Thank you for your answers. The survey now is finished. Would you also like to take part in the quiz, where you can win 1,000 Yuan Renminbi (approx. 130 USD). The winner will be notified on June 30, 2012. Decisions are final. We will try to notify everybody with the individual results of your quiz and maybe with a winner's notification."
+msgstr "感谢您的答案。现在问卷已经完成。如果您参加下面的有奖测试，您将有机会赢得1000元人民币（约130美元）。 “2012年6月30日，获胜者将被通知。我们将尝试将测验结果分别通知每一个人，您可能就是那个幸运者。"
+
+#: includes/lib/header.common.php:62
+msgid "Thank you for participating in the survey. If you want to know the results and to have the chance to win 1000 Yuan, please be so kind to leave us your email address in order to be informed about the result"
+msgstr "感谢您的参与。如果您想知道结果，并有机会赢得1000元，请您留给我们您的电子邮件地址，以便被告知有关结果（2012年6月30日到期）"
+

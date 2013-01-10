@@ -1,0 +1,8 @@
+body{padding: 20px;}
+#nav{width: 100px;height: 600px;}
+#contentbody{
+    padding-left: 50px;margin-left: 160px;width: 900px;height: 550px;position: absolute;overflow: auto;
+    border:2px solid #EEEEEE; }
+ul{list-style-type: none;border-left:2px solid #EEEEEE;position: absolute;}
+a{width: 80px;}
+#head{margin-bottom: 40px;}
